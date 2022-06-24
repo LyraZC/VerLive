@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_plantas"
+        android:title="Plantas"
+        android:icon="@drawable/planta">
+
+    </item>
+
+    <item
+        android:id="@+id/menu_control"
+        android:title="Control"
+        android:icon="@drawable/control">
+
+    </item>
+
+
+
+
+</menu>
