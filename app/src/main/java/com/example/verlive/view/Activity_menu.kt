@@ -3,7 +3,7 @@ package com.example.verlive.view
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.Navigation
-import androidx.navigation.ui.NavigationUI
+import androidx.navigation.ui.NavigationUI.setupWithNavController
 import com.example.verlive.R
 import com.example.verlive.databinding.ActivityMenuBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -18,7 +18,7 @@ class Activity_menu : AppCompatActivity() {
         setContentView(view)
 
         val menuarte: BottomNavigationView = binding.bottomNavMenu
-        NavigationUI.setupWithNavController(menuarte, Navigation.findNavController(this, R.id.frag_navgraph)
+        setupWithNavController(menuarte, Navigation.findNavController(this, R.id.frag_navgraph)
         )
 
 

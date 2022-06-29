@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/drawable/control.xml" value="0.1175" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/drawable/cv_planta.xml" value="0.1" />
+        <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/drawable/menu.xml" value="0.1" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/drawable/planta.xml" value="0.111" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/layout/activity_main.xml" value="0.1" />
@@ -12,6 +14,7 @@
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/layout/fragment_control.xml" value="0.18795289855072464" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/layout/fragment_home.xml" value="0.15" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/layout/fragment_plantas.xml" value="0.15" />
+        <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/layout/fragment_plantas_det.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/layout/item_plantas.xml" value="0.18795289855072464" />
         <entry key="..\:/Users/user_/AndroidStudioProjects/VerLive/app/src/main/res/menu/menu_app.xml" value="0.20416666666666666" />
       </map>

@@ -33,7 +33,7 @@ class Fragment_plantas : Fragment(), PlantaListener {
     }
 
     override fun OnPlantaClicked(Planta: plantas, position: Int) {
-        NavHostFragment.findNavController(this).navigate(R.id.nfragment_plantas)
+        NavHostFragment.findNavController(this).navigate(R.id.nfragment_plantasDet)
     }
 
     private fun GetPlanta(): MutableList<plantas>{

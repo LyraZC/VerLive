@@ -23,12 +23,20 @@
         <action
             android:id="@+id/action_fragment_plantas_to_fragment_control"
             app:destination="@id/nfragment_control" />
+        <action
+            android:id="@+id/action_nfragment_plantas_to_fragment_plantasDet"
+            app:destination="@id/nfragment_plantasDet" />
     </fragment>
     <fragment
         android:id="@+id/nfragment_control"
         android:name="com.example.verlive.view.Fragment_control"
         android:label="fragment_control"
         tools:layout="@layout/fragment_control" />
+    <fragment
+        android:id="@+id/nfragment_plantasDet"
+        android:name="com.example.verlive.view.Fragment_plantasDet"
+        android:label="fragment_plantas_det"
+        tools:layout="@layout/fragment_plantas_det" />
 
 
 </navigation>
